@@ -1,4 +1,4 @@
-Primeiro projeto dentro do GitHub
+Primeiro projeto no GitHub
 
 Jogo da Adivinhação!
 
