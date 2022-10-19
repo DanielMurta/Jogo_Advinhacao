@@ -1,5 +1,3 @@
-Primeiro projeto no GitHub
-
 Jogo da Adivinhação!
 
 O programa vai escolher um número entre 0 e 5. Logo após
