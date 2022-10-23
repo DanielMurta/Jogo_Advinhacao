@@ -26,5 +26,5 @@ while Chance >= 0:  # Loop até o número de chances for 0
             break  # Se o numero de chances for = 0, o loop é interrompido.
         else:
             print('\033[33mNão foi dessa vez. Tente novamente!\033[m')
-            print(f'Você possui mais {Chance} chances...')
-            Chance -= 1  # A cada chute, a variavel Chance diminuirá 1
+            print(f'Você possui mais {Chance} chance(s)...')
+            Chance -= 1  # A cada chute, a variavel Chance diminuirá 1 vez
